@@ -1,6 +1,6 @@
 # nfs_enum.py
 
-An NFS enumeration tool for pentesters. It walks a target through six phases — from a quick port check all the way to mounting shares and flagging dangerous export options — and writes a structured report at the end.
+An NFS enumeration tool for pentesters. It walks a target through six phases from a quick port check all the way to mounting shares and flagging dangerous export options and writes a structured report at the end.
 
 ## Features
 
